@@ -24,7 +24,7 @@
     "prettyjson": "^1.2.1",
     "qr-image": "^3.2.0",
     "qrcode-terminal": "^0.12.0",
-    "sharp": "^0.23.1",
+    "sharp": "^0.30.5",
     "simple-node-logger": "^18.12.23",
     "text2png": "^2.2.0",
     "truffle-hdwallet-provider": "1.0.10",
